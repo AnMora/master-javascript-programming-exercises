@@ -336,7 +336,7 @@
         {
             "slug": "28-cube",
             "title": "28-cube",
-            "done": false,
+            "done": true,
             "path": "exercises/28-cube",
             "translations": [
                 "es",
@@ -347,7 +347,7 @@
         {
             "slug": "29-square",
             "title": "29-square",
-            "done": false,
+            "done": true,
             "path": "exercises/29-square",
             "translations": [
                 "es",
@@ -358,7 +358,7 @@
         {
             "slug": "30-computeAverageLengthOfWords",
             "title": "30-computeAverageLengthOfWords",
-            "done": false,
+            "done": true,
             "path": "exercises/30-computeAverageLengthOfWords",
             "translations": [
                 "es",

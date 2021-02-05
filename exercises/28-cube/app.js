@@ -1,7 +1,7 @@
 // Write your function here
-function cube(num1, num2) {
+function cube(num) {
   // your code here
-  return (num1 * num2) /2;
+  return Math.pow(num, 3);
 }
 
-console.log(cube(3));
+console.log(cube(5));
